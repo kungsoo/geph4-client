@@ -176,3 +176,7 @@ opt-level = 3
 #strip = false
 #lto=true
 #codegen-units=1
+debug = false
+lto = "fat"
+codegen-units = 1
+strip = true
